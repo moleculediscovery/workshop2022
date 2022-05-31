@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+Big successes of machine learning for molecules have been achieved recently which had and will have a tremendous impact on how research is done (Chen, 2018), e.g.  the accurate prediction of protein 3D structure (Jumper 2021; Thornton, 2021), discovery of novel antibiotics (Stokes, 2020; Das, 2021), or chemical synthesis planning (Segler, 2018). Nevertheless, there are still major challenges and  substantial critique is voiced on current methods that are based mostly on deep learning (Marcus, 2018). Deep learning methods are data hungry, have limited knowledge transfer capabilities, do not quickly adapt to changing tasks or distributions, insufficiently incorporate world and prior knowledge, and cannot inherently distinguish causation from correlation (Bengio, 2021; Chollet, 2019; Marcus, 2018; Schölkopf, 2019). Furthermore, the current models are usually not composable in a sense that sub-components or different modules can be combined in a new way. With these characteristics, the machine learning systems currently employed for molecules are of the type of a narrow AI (Chollet, 2019; Hochreiter, 2022), as those are focused on a specific application, such as predicting a particular property or generating a certain type of molecules. The above-mentioned drawbacks hold in particular for molecular machine learning, such as activity/property prediction (Neves, 2018), generative modeling (Yang, 2017; Bender, 2021), chemical reactivity and synthesis (Segler, 2018; Seidl, 2022), and molecular modeling and representation learning (Klambauer, 2021). 
+Therefore, this workshop focuses on exposing the current limitations of machine learning methods for molecules by critically assessing them, either theoretically or in applied and in industrial settings. The methods contributed to this workshop can focus on architectures that are robust against domain shifts, such as new biotechnologies or types of molecules. The proposed methods can also focus on quickly adapting to newly acquired data with potentially expensive biotechnologies, concretely few- and zero-shot learning methods. A further theme of the workshop is on methods that lead to new levels of abstractions of molecule representations, such that broader generalization capabilities are enabled. A potential step in this direction are physics-based machine learning methods improving molecular dynamics simulations or force fields. Advancing machine learning for molecules also means that these new systems should be able to interact with humans and transfer knowledge between them and the system, which is covered by the workshop theme on interpretability and explainability methods. The workshop also includes considerations and methodologies that allow for modularity or compositionality of architectures for molecular machine learning. 
 
-You can use the [editor on GitHub](https://github.com/moleculediscovery/workshop2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moleculediscovery/workshop2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Organizing Committee and Contact
+Chairs: Marwin Segler, Jose Miguel Hernandez Lobato, Nadine Schneider, Günter Klambauer;  
+Jennifer Wei.  
+Contact: ml4molecules@ml.jku.at
