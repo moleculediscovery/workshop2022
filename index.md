@@ -3,6 +3,5 @@ Therefore, this workshop focuses on exposing the current limitations of machine 
 
 
 # Organizing Committee and Contact
-Chairs: Marwin Segler, Jose Miguel Hernandez Lobato, Nadine Schneider, Günter Klambauer;  
-Jennifer Wei.  
+Chairs: Jennifer Wei, Nadine Schneider, Günter Klambauer, Marwin Segler, and Jose M. H. Lobato
 Contact: ml4molecules@ml.jku.at
