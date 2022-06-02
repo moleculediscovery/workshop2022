@@ -5,10 +5,11 @@ Therefore, this workshop focuses on exposing the current limitations of machine 
 - Janet Thornton, EBI Hinxton, UK, 
 - Tao Qin, Microsoft Research, China 
 - Andreas Bender, University Cambridge, UK
-- Lucy Colwell, Google Cambridge, US  
+- Lucy Colwell, Google Research, US  
 - Koji Tsuda, University of Tokyo, Japan
 - Francesca Grisoni, TU Eindhofen, Netherlands 
 - Payel Das, IBM NYC, US 
+- Christian Kramer, Roche, Switzerland
 
 # Organizing Committee and Contact
 Chairs: Jennifer Wei, Nadine Schneider, Günter Klambauer, Marwin Segler, and Jose M. H. Lobato
