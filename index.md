@@ -7,7 +7,7 @@ Therefore, this workshop focuses on exposing the current limitations of machine 
 - Andreas Bender, University Cambridge, UK (confirmed)
 - Lucy Colwell, Google Research, US  (confirmed) 
 - Koji Tsuda, University of Tokyo, Japan (confirmed)
-- Francesca Grisoni, TU Eindhofen, Netherlands 
+- Francesca Grisoni, TU Eindhoven, Netherlands (confirmed)
 - Payel Das, IBM NYC, US (confirmed)
 - Christian Kramer, Roche, Switzerland
 
