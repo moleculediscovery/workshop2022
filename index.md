@@ -2,7 +2,7 @@ Big successes of machine learning for molecules have been achieved recently whic
 Therefore, this workshop focuses on exposing the current limitations of machine learning methods for molecules by critically assessing them, either theoretically or in applied and in industrial settings. The methods contributed to this workshop can focus on architectures that are robust against domain shifts, such as new biotechnologies or types of molecules. The proposed methods can also focus on quickly adapting to newly acquired data with potentially expensive biotechnologies, concretely few- and zero-shot learning methods. A further theme of the workshop is on methods that lead to new levels of abstractions of molecule representations, such that broader generalization capabilities are enabled. A potential step in this direction are physics-based machine learning methods improving molecular dynamics simulations or force fields. Advancing machine learning for molecules also means that these new systems should be able to interact with humans and transfer knowledge between them and the system, which is covered by the workshop theme on interpretability and explainability methods. The workshop also includes considerations and methodologies that allow for modularity or compositionality of architectures for molecular machine learning. 
 
 # Speakers
-- Janet Thornton, EBI Hinxton, UK, 
+- Janet Thornton, EBI Hinxton, UK (confirmed)
 - Tao Qin, Microsoft Research, China 
 - Andreas Bender, University Cambridge, UK (confirmed)
 - Lucy Colwell, Google Research, US  (confirmed) 
