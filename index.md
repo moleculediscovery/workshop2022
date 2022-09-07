@@ -47,21 +47,21 @@ Contact: ml4molecules@ml.jku.at
 
 
 ### References
-Bender, A., & Cortés-Ciriano, I. (2021). Artificial intelligence in drug discovery: what is realistic, what are illusions? Part 1: ways to make an impact, and why we are not there yet. Drug discovery today, 26(2), 511-524.
-Bengio, Y., Lecun, Y., & Hinton, G. (2021). Deep learning for AI. Communications of the ACM, 64(7), 58-65.
-Bereau, T., Kramer, C., & Meuwly, M. (2013). Leveraging symmetries of static atomic multipole electrostatics in molecular dynamics simulations. Journal of Chemical Theory and Computation, 9(12), 5450-5459.
-Chen, H., Engkvist, O., Wang, Y., … & Blaschke, T. (2018). The rise of deep learning in drug discovery. Drug discovery today, 23(6), 1241-1250.
-Chollet, F. (2019). On the measure of intelligence. arXiv preprint arXiv:1911.01547.
-Das, P., Sercu, T., Wadhawan, K., Padhi, I., Gehrmann, S., Cipcigan, F., ... & Mojsilovic, A. (2021). Accelerated antimicrobial discovery via deep generative models and molecular dynamics simulations. Nature Biomedical Engineering, 5(6), 613-623.
-Fan, Y., Xia, Y., Zhu, J., Wu, L., Xie, S., & Qin, T. (2022). Back translation for molecule generation. Bioinformatics, 38(5), 1244-1251.
-Hochreiter, S. (2022). Toward a broad AI. Communications of the ACM 65, no. 4: 56-57.
-Jumper, J., Evans, R., Pritzel, A.,  ... & Hassabis, D. (2021). Highly accurate protein structure prediction with AlphaFold. Nature, 596(7873), 583-589.
-Segler, M. H., Preuss, M., & Waller, M. P. (2018). Planning chemical syntheses with deep neural networks and symbolic AI. Nature, 555(7698), 604-610.
-Klambauer, G. (2021). Moving beyond narrow AIs in Drug Discovery -- a perspective. ELLIS ML4Molecules workshop Dec 13, 2021. Virtual, https://moleculediscovery.github.io/workshop2021/. 
-Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.
-Schölkopf, B. (2019). Causality for machine learning. arXiv preprint arXiv:1911.10500.
-Seidl, P., Renz, P., Dyubankova, N., Neves, P ,... & Klambauer, G. (2022). Improving Few-and Zero-Shot Reaction Template Prediction Using Modern Hopfield Networks. Journal of chemical information and modeling.
-Stokes, J. M., Yang, K., Swanson, K., Jin, W.,... & Collins, J. J. (2020). A deep learning approach to antibiotic discovery. Cell, 180(4), 688-702.
-Thornton, J. M., …,, & Borkakoti, N. (2021). AlphaFold heralds a data-driven revolution in biology and medicine. Nature Medicine, 27(10), 1666-1669.
-Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K. (2017). ChemTS: an efficient python library for de novo molecular generation. Science and technology of advanced materials, 18(1), 972-976. 
+Bender, A., & Cortés-Ciriano, I. (2021). Artificial intelligence in drug discovery: what is realistic, what are illusions? Part 1: ways to make an impact, and why we are not there yet. Drug discovery today, 26(2), 511-524.  
+Bengio, Y., Lecun, Y., & Hinton, G. (2021). Deep learning for AI. Communications of the ACM, 64(7), 58-65.  
+Bereau, T., Kramer, C., & Meuwly, M. (2013). Leveraging symmetries of static atomic multipole electrostatics in molecular dynamics simulations. Journal of Chemical Theory and Computation, 9(12), 5450-5459.  
+Chen, H., Engkvist, O., Wang, Y., … & Blaschke, T. (2018). The rise of deep learning in drug discovery. Drug discovery today, 23(6), 1241-1250.  
+Chollet, F. (2019). On the measure of intelligence. arXiv preprint arXiv:1911.01547.  
+Das, P., Sercu, T., Wadhawan, K., Padhi, I., Gehrmann, S., Cipcigan, F., ... & Mojsilovic, A. (2021). Accelerated antimicrobial discovery via deep generative models and molecular dynamics simulations. Nature Biomedical Engineering, 5(6), 613-623.  
+Fan, Y., Xia, Y., Zhu, J., Wu, L., Xie, S., & Qin, T. (2022). Back translation for molecule generation. Bioinformatics, 38(5), 1244-1251.  
+Hochreiter, S. (2022). Toward a broad AI. Communications of the ACM 65, no. 4: 56-57.  
+Jumper, J., Evans, R., Pritzel, A.,  ... & Hassabis, D. (2021). Highly accurate protein structure prediction with AlphaFold. Nature, 596(7873), 583-589.  
+Segler, M. H., Preuss, M., & Waller, M. P. (2018). Planning chemical syntheses with deep neural networks and symbolic AI. Nature, 555(7698), 604-610.  
+Klambauer, G. (2021). Moving beyond narrow AIs in Drug Discovery -- a perspective. ELLIS ML4Molecules workshop Dec 13, 2021. Virtual, https://moleculediscovery.github.io/workshop2021/.   
+Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.  
+Schölkopf, B. (2019). Causality for machine learning. arXiv preprint arXiv:1911.10500.  
+Seidl, P., Renz, P., Dyubankova, N., Neves, P ,... & Klambauer, G. (2022). Improving Few-and Zero-Shot Reaction Template Prediction Using Modern Hopfield Networks. Journal of chemical information and modeling.  
+Stokes, J. M., Yang, K., Swanson, K., Jin, W.,... & Collins, J. J. (2020). A deep learning approach to antibiotic discovery. Cell, 180(4), 688-702.  
+Thornton, J. M., …,, & Borkakoti, N. (2021). AlphaFold heralds a data-driven revolution in biology and medicine. Nature Medicine, 27(10), 1666-1669.  
+Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K. (2017). ChemTS: an efficient python library for de novo molecular generation. Science and technology of advanced materials, 18(1), 972-976.   
 
