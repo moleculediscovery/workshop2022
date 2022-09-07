@@ -27,6 +27,15 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 - Payel Das, IBM NYC, US (confirmed)
 - Christian Kramer, Roche, Switzerland
 
+# Schedule 
+- Opening remarks
+- Invited talks
+- Contributed talks
+- Poster session
+- Invited talks
+- Contributed talks
+- Closing remarks
+
 # Important dates
  - October 18, 2022: submission deadline
  - Mid November, 2022: author notification
