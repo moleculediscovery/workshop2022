@@ -37,6 +37,9 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 - Contributed talks
 - Closing remarks
 
+# Registration
+The workshop will be open for everyone without registration fee. Details on the registration will follow soon!
+
 # Important dates
  - October 18, 2022: submission deadline
  - Mid November, 2022: author notification
