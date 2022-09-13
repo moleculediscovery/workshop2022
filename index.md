@@ -16,7 +16,7 @@ We are calling for papers advancing or critically assessing molecular machine le
 - Multi-modal learning and modular architectures
 - Causality and physics-based machine learning for molecules
 
-Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2022/Workshop/ML4Molecules) until Oct 18 2022 12:00AM UTC-0 (abstract registration deadline) and Oct 20 2022 12:00AM UTC-0 (paper deadline). The submissions should be in PDF and follow the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles) with a maximum of 4 pages (not including references and appendices). 
+Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2022/Workshop/ML4Molecules) until Oct 18 2022 12:00AM UTC-0 (abstract registration deadline) and Oct 20 2022 12:00AM UTC-0 (paper deadline). The submissions should be in PDF and follow the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles) with a maximum of 4 pages (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous. 
 
 # Speakers
 - Janet Thornton, EBI Hinxton, UK (confirmed)
@@ -46,7 +46,7 @@ The workshop will be open for everyone without registration fee. Details on the 
  - November 28, 2022: workshop
 
 # Organizing Committee and Contact
-Chairs: Jennifer Wei, Nadine Schneider, Günter Klambauer, Marwin Segler, and Jose Miguel Hernandez Lobato
+Chairs: Jennifer Wei, Nadine Schneider, Günter Klambauer, Marwin Segler, and Jose Miguel Hernandez Lobato  
 Contact: ml4molecules@ml.jku.at
 
 # Program Committee
