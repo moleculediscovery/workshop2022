@@ -36,16 +36,15 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 ### Schedule 
 
 
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| TBC  | Opening remarks         |                                                                            
-| TBC  | Invited talks           |
-| TBC  | Contributed talks       | 
-| TBC  | Poster session          | 
-| TBC  | Invited talks           | 
-| TBC  | Contributed talks       |
-| TBC  | Closing remarks         |
+| Date/Time     | Event|
+| ------------- | ------------- |
+| TBC           | Opening remarks         |                                                                            
+| TBC           | Invited talks           |
+| TBC           | Contributed talks       | 
+| TBC           | Poster session          | 
+| TBC           | Invited talks           | 
+| TBC           | Contributed talks       |
+| TBC           | Closing remarks         |
 
 ### Registration
 The workshop will be open for everyone without registration fee. Details on the registration will follow soon!
