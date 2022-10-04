@@ -34,7 +34,7 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 - Christian Kramer, Roche, Switzerland
 
 ### Schedule 
-|TBC   | Opening remarks         |                                                                           
+| TBC   | Opening remarks         |                                                                           
 | 
 | TBC  | Invited talks           |
 | 
