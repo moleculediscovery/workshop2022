@@ -36,8 +36,6 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 ### Schedule 
 
 
-| Date/Time     | Event|
-| ------------- | ------------- |
 | TBC           | Opening remarks         |                                                                            
 | TBC           | Invited talks           |
 | TBC           | Contributed talks       | 
