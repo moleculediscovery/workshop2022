@@ -36,18 +36,12 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 ### Schedule 
 
 
-| TBC   | Opening remarks         |                                                                           
-| 
+| TBC  | Opening remarks         |                                                                            
 | TBC  | Invited talks           |
-| 
+| TBC  | Contributed talks       | 
+| TBC  | Poster session          | 
+| TBC  | Invited talks           | 
 | TBC  | Contributed talks       |
-| 
-| TBC  | Poster session          |
-| 
-| TBC  | Invited talks           |
-| 
-| TBC  | Contributed talks       |
-| 
 | TBC  | Closing remarks         |
 
 ### Registration
