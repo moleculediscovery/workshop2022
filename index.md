@@ -1,6 +1,5 @@
- <p align="center">
-[About](#about) - [Call for Papers](#call-for-papers) - [Speakers](#speakers) - [Schedule](#schedule) - [Registration](#registration) - [Important Dates](#important-dates) - [Poster Session](#poster-session)
-</p>
+[About](#about) - [Call for Papers](#call-for-papers) - [Speakers](#speakers) - [Schedule](#schedule) - [Registration](#registration) - [Important Dates](#important-dates)
+
 ### About
 
 Big successes of machine learning (ML) for molecules have been achieved recently, e.g. the accurate prediction of protein 3D structure (Jumper 2021; Thornton, 2021), discovery of novel antibiotics (Stokes, 2020; Das, 2021), or chemical synthesis planning (Segler, 2018). These successes make molecular machine learning one of the prime candidates to tackle the climate-, energy- and pandemic-related crisis that we are facing. Nevertheless, there are still major challenges and  substantial critique is voiced on current methods that are based mostly on deep learning (Marcus, 2018). Deep learning (DL) methods are data hungry, have limited knowledge transfer capabilities, do not quickly adapt to changing tasks or distributions, insufficiently incorporate world and prior knowledge, and cannot inherently distinguish causation from correlation (Bengio, 2021; Chollet, 2019; Marcus, 2018; Schölkopf, 2019). Furthermore, the current models are usually not composable in a sense that sub-components or different modules can be combined in a new way. With these characteristics, the machine learning systems currently employed for molecules are of the type of a narrow artificial intelligence (AI) (Chollet, 2019; Hochreiter, 2022). The above-mentioned drawbacks hold in particular for molecular machine learning, such as activity and property prediction, generative modeling (Yang, 2017; Bender, 2021; Fan, 2022), chemical reactivity and synthesis (Segler, 2018; Seidl, 2022), and molecular modeling (Bereau, 2013) and representation learning.    
@@ -57,7 +56,7 @@ The workshop will be open for everyone without registration fee. Details on the 
 
 ### Organizing Committee and Contact
 Chairs: Jennifer Wei, Nadine Schneider, Günter Klambauer, Marwin Segler, and Jose Miguel Hernandez Lobato  
-Contact: ml4molecules@ml.jku.at (ml4molecules@ml.jku.at)
+Contact: [ml4molecules@ml.jku.at] (ml4molecules@ml.jku.at)
 
 ### Program Committee
 TBA
