@@ -34,13 +34,19 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 - Christian Kramer, Roche, Switzerland
 
 ### Schedule 
-- Opening remarks
-- Invited talks
-- Contributed talks
-- Poster session
-- Invited talks
-- Contributed talks
-- Closing remarks
+|TBC   | Opening remarks                                                                                    
+| 
+| TBC  | Invited talks
+| 
+| TBC  | Contributed talks
+| 
+| TBC  | Poster session
+| 
+| TBC  | Invited talks
+| 
+| TBC  | Contributed talks
+| 
+| TBC  | Closing remarks
 
 ### Registration
 The workshop will be open for everyone without registration fee. Details on the registration will follow soon!
