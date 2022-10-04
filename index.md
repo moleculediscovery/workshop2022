@@ -57,7 +57,7 @@ The workshop will be open for everyone without registration fee. Details on the 
 
 ### Organizing Committee and Contact
 Chairs: Jennifer Wei, Nadine Schneider, Günter Klambauer, Marwin Segler, and Jose Miguel Hernandez Lobato  
-Contact: ml4molecules@ml.jku.at
+Contact: ml4molecules@ml.jku.at (ml4molecules@ml.jku.at)
 
 ### Program Committee
 TBA
