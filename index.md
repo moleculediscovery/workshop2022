@@ -35,8 +35,7 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 
 ### Schedule 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
