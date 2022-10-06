@@ -26,14 +26,22 @@ We are calling for papers advancing or critically assessing molecular machine le
 Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2022/Workshop/ML4Molecules) until Oct 18 2022 12:00AM UTC-0 (abstract registration deadline) and Oct 20 2022 12:00AM UTC-0 (paper deadline). The submissions should be in PDF and follow the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles) with a maximum of 4 pages (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous. 
 
 ### Speakers
-- Janet Thornton, EBI Hinxton, UK (confirmed)
-- Tao Qin, Microsoft Research, China 
-- Andreas Bender, University Cambridge, UK (confirmed)
-- Lucy Colwell, Google Research, US  (confirmed) 
-- Koji Tsuda, University of Tokyo, Japan (confirmed)
-- Francesca Grisoni, TU Eindhoven, Netherlands (confirmed)
+- 
+- 
+- 
+- 
+- 
+- 
 - Payel Das, IBM NYC, US (confirmed)
 - Christian Kramer, Roche, Switzerland
+
+| TBC           | Opening remarks         |     Opening remarks         |                                                                       
+| [Janet Thornton](https://www.ebi.ac.uk/people/person/janet-thornton/), EBI Hinxton, UK (confirmed)| Tao Qin, Microsoft Research, China| Andreas Bender, University Cambridge, UK (confirmed)       |  
+| TBC           | Contributed talks       | 
+| TBC           | Poster session          | 
+| Lucy Colwell, Google Research, US  (confirmed) | Koji Tsuda, University of Tokyo, Japan (confirmed)| Francesca Grisoni, TU Eindhoven, Netherlands (confirmed) |  
+| TBC           | Contributed talks       |
+| TBC           | Closing remarks         |
 
 ### Schedule 
 
