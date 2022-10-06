@@ -28,29 +28,22 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 ### Speakers
 
 
-| ![Janet-Thornton-Senior-scientist-and-outgoing-director-of-EMBL-EBI](https://user-images.githubusercontent.com/38696018/194288978-8b8f555d-8d03-440e-b72e-e90b0164403e.png)           | [Janet Thornton](https://www.ebi.ac.uk/people/person/janet-thornton/), EBI Hinxton, UK (confirmed) She is a pioneer in structural bioinformatics and was leading the European BioinformaticsInstitute for 14 years. Her work strongly influenced the understanding of protein 3D structures and protein function. One of her most impactful works is on the stereochemical
-quality of protein structures.        |                                                                            
-| TBC           | Invited talks           |
-| TBC           | Contributed talks       | 
-| TBC           | Poster session          | 
-| TBC           | Invited talks           | 
-| TBC           | Contributed talks       |
-| TBC           | Closing remarks         |
+| ![Janet-Thornton-Senior-scientist-and-outgoing-director-of-EMBL-EBI](https://user-images.githubusercontent.com/38696018/194288978-8b8f555d-8d03-440e-b72e-e90b0164403e.png)           | [Janet Thornton](https://www.ebi.ac.uk/people/person/janet-thornton/), EBI Hinxton, UK (confirmed) She is a pioneer in structural bioinformatics and was leading the European BioinformaticsInstitute for 14 years. Her work strongly influenced the understanding of protein 3D structures and protein function. One of her most impactful works is on the stereochemicalquality of protein structures.        |                                                                            
+| TBC           | [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), Microsoft Research, China He has contributed crucial work on adaptiveness, domain generalization, and robustnesswith several applications to molecules.          |
+| TBC           | [Andreas Bender](http://www.andreasbender.de/), University Cambridge, UK (confirmed)  Chemoinformatics pioneer and has recently critically analyzed AI for drug discovery       | 
+| TBC           | [Lucy Colwell](https://research.google/people/106569/), Google Research, US  (confirmed) Lucy Colwell focuses on gaining new insight and understanding from large bodies of data. Especially she tried to obtain evolutionary constraints from a set of sequence homologs of a protein. Her works on generating, optimizing and annotating biological sequences have become widely known.           | 
+| TBC           | [Koji Tsuda](https://www.tsudalab.org/en/authors/admin/), University of Tokyo, Japan (confirmed) He has contributed some of the early works in ML for molecules, such as graph kernels; recently he contributed hybrid methods for chemical synthesis and molecule optimization.           | 
+| TBC           | [Francesca Grisoni](https://research.tue.nl/en/persons/francesca-grisoni), TU Eindhoven, Netherlands (confirmed) Her group was the first to show biological activity of a Deep Learning generated molecule and, since then, she has also worked on exposing limitations of ML/DL for molecules.     |
+| TBC           | [Payel Das](https://researcher.watson.ibm.com/researcher/view.php?person=us-daspa), IBM NYC, US (confirmed)  She leads research projects related to AI for creativity and discovery, with inspirations from and applications in material science, chemistry, and biology.          |
 
 
 
-| pic | [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), Microsoft Research, China He has contributed crucial work on adaptiveness, domain generalization, and robustnesswith several applications to molecules.
-| pic | [Andreas Bender](http://www.andreasbender.de/), University Cambridge, UK (confirmed)  Chemoinformatics pioneer and has recently critically analyzed AI for drug discovery     |  
-| Pic     | [Lucy Colwell](https://research.google/people/106569/), Google Research, US  (confirmed) Lucy Colwell focuses on gaining new insight and understanding from large bodies of data.
-Especially she tried to obtain evolutionary constraints from a set of sequence homologs of a
-protein. Her works on generating, optimizing and annotating biological sequences have
-become widely known.     | 
-| pic           | [Koji Tsuda](https://www.tsudalab.org/en/authors/admin/), University of Tokyo, Japan (confirmed) He has contributed some of the early works in ML for molecules, such as graph kernels;
-recently he contributed hybrid methods for chemical synthesis and molecule optimization.       | 
-| pic | [Francesca Grisoni](https://research.tue.nl/en/persons/francesca-grisoni), TU Eindhoven, Netherlands (confirmed) Her group was the first to show biological activity of a Deep Learning generated molecule
-and, since then, she has also worked on exposing limitations of ML/DL for molecules. |  
-| pic           | [Payel Das](https://researcher.watson.ibm.com/researcher/view.php?person=us-daspa), IBM NYC, US (confirmed)  She leads research projects related to AI for creativity and discovery, with inspirations from
-and applications in material science, chemistry, and biology.    |
+| pic | 
+| pic |     |  
+| Pic     |     | 
+| pic           |       | 
+| pic |  |  
+| pic           |  |
 | pic           | [Christian Kramer](https://scholar.google.at/citations?user=FO35_JEAAAAJ&hl=en&oi=ao), Roche, Switzerland  He is head of the computer-aided drug design group at Roche and will provide insights
 about the industry- and real-world impact of Deep Learning methods in this area      |
 
