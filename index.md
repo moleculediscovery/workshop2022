@@ -36,7 +36,9 @@ quality of protein structures.        |
 | TBC           | Invited talks           | 
 | TBC           | Contributed talks       |
 | TBC           | Closing remarks         |
-| |      |                                                                         
+
+
+
 | pic | [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), Microsoft Research, China He has contributed crucial work on adaptiveness, domain generalization, and robustnesswith several applications to molecules.
 | pic | [Andreas Bender](http://www.andreasbender.de/), University Cambridge, UK (confirmed)  Chemoinformatics pioneer and has recently critically analyzed AI for drug discovery     |  
 | Pic     | [Lucy Colwell](https://research.google/people/106569/), Google Research, US  (confirmed) Lucy Colwell focuses on gaining new insight and understanding from large bodies of data.
