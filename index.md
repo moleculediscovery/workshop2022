@@ -35,7 +35,7 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 - Payel Das, IBM NYC, US (confirmed)
 - Christian Kramer, Roche, Switzerland
 
-| TBC           | Opening remarks         |     Opening remarks         |                                                                       
+| ![Janet-Thornton-Senior-scientist-and-outgoing-director-of-EMBL-EBI](https://user-images.githubusercontent.com/38696018/194288978-8b8f555d-8d03-440e-b72e-e90b0164403e.png)| Opening remarks         |     Opening remarks         |                                                                       
 | [Janet Thornton](https://www.ebi.ac.uk/people/person/janet-thornton/), EBI Hinxton, UK (confirmed)| Tao Qin, Microsoft Research, China| Andreas Bender, University Cambridge, UK (confirmed)       |  
 | TBC           | Contributed talks       | 
 | TBC           | Poster session          | 
