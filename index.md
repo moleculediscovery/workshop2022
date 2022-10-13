@@ -9,7 +9,7 @@ Therefore, this workshop focuses on exposing the current limitations of machine 
 <img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/38696018/193839682-974b4e67-afa3-4ea9-938b-14ab1284f76b.png">
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;The workshop will be hosted by the [ELLIS unit Cambridge](http://www.ellis.eng.cam.ac.uk/) &nbsp;&nbsp;&nbsp;&nbsp;and [ELLIS unit Linz](https://www.jku.at/en/lit-artificial-intelligence-lab/ellis-unit-linz/) as a side-event to NeurIPS2022 and held &nbsp;&nbsp;&nbsp;&nbsp;in VIRTUAL mode via [Zoom](https://zoom.us) and [GatherTown](https://www.gather.town).<br clear="left"/>
+&nbsp;&nbsp;&nbsp;&nbsp;The workshop will be hosted by the [ELLIS unit Cambridge](http://www.ellis.eng.cam.ac.uk/) &nbsp;&nbsp;&nbsp;&nbsp;and [ELLIS unit Linz](https://www.jku.at/en/lit-artificial-intelligence-lab/ellis-unit-linz/) as a side-event to NeurIPS2022 and held &nbsp;&nbsp;&nbsp;&nbsp;in VIRTUAL mode via Zoom and GatherTown.<br clear="left"/>
 
 ### Call for papers
 We are calling for papers advancing or critically assessing molecular machine learning. Topics include (but not limited to):  
