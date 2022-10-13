@@ -49,7 +49,7 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 | TBC           | Closing remarks         |
 
 ### Registration
-The workshop will be open for everyone without registration fee. Details on the registration will follow soon!
+The workshop will be open for everyone without registration fee. Please register [here](https://www.eventbrite.co.uk/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-431772261457)!
 
 ### Important dates
  - October 18, 2022: submission deadline
