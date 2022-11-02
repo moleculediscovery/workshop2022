@@ -40,27 +40,27 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 ### Schedule 
 
 
-| CET           | Event        |                  |        |                                                                 
-| 09:00           | Invited talks           |Invited talks           |
-| 09:30           | Contributed talks       | 
-| 10:00           | Poster session          | 
-| 10:30           | Invited talks           | 
-| 11:00           | Contributed talks       |
-| 11:30           | Closing remarks         |
-| 12:00           | Opening remarks         |                                                                            
-| 12:30          | Invited talks           |
-| 13:00           | Contributed talks       | 
-| 13:30          | Poster session          | 
-| 14:00          | Invited talks           | 
-| 14:30           | Contributed talks       |
-| 15:00          | Closing remarks         |
-| 15:30           | Opening remarks         |                                                                            
-| 16:00           | Invited talks           |
-| TBC           | Contributed talks       | 
-| TBC           | Poster session          | 
-| TBC           | Invited talks           | 
-| TBC           | Contributed talks       |
-| TBC           | Closing remarks         |
+| CET             | Event              |        Speakers          |   Title     |                                                                 
+| 09:00           | Welcome            |                          |             | 
+| 09:30           | Invited Talk 1     | Koji Tsuda               | Self-Learning Entropic Population Annealing for Interpretable Materials Design | 
+| 10:00           | invited Talk 2     | TaoQin                   |        | 
+| 10:30           | Contributed talks  |                          |        | 
+| 11:00           | Contributed talks  |                          |        | 
+| 11:30           | Poster Session 1   |                          |        | 
+| 12:00           | Poster Session 1   |                          |        |                                                                            
+| 12:30           | Invited talk 3     | Christian Kramer         |        | 
+| 13:00           | Invited talk 4     | Andreas Bender           |        |  
+| 13:30           | Break              |                          |        |  
+| 14:00           | Invited talk 5     | Francesca Grisoni        |        |  
+| 14:30           | Invited talk 6     | Janet Thornton           |  Protein Structure and Function Predictions      | 
+| 15:00           | Contributed talks  |                          |        | 
+| 15:30           | Contributed talks  |                          |        |                                                                            
+| 16:00           | Invited talk 7     |  Lucy Colwell            |        | 
+| 16:30           | Invited talk 8     | Payel Das                |        |  
+| 17:00           | Break              |                          |        |  
+| 17:30           | Poster Session 2   |                          |        |  
+| 18:00           | Poster Session 2   |                          |        | 
+| TBC             | Closing remark     |                          |        | 
 
 ### Registration
 The workshop will be open for everyone without registration fee. Please register [here](https://www.eventbrite.co.uk/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-431772261457)!
