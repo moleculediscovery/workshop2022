@@ -40,8 +40,22 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 ### Schedule 
 
 
-| TBC           | Opening remarks         |                                                                            
-| TBC           | Invited talks           |
+| CET           | Event        |                  |        |                                                                 
+| 09:00           | Invited talks           |Invited talks           |
+| 09:30           | Contributed talks       | 
+| 10:00           | Poster session          | 
+| 10:30           | Invited talks           | 
+| 11:00           | Contributed talks       |
+| 11:30           | Closing remarks         |
+| 12:00           | Opening remarks         |                                                                            
+| 12:30          | Invited talks           |
+| 13:00           | Contributed talks       | 
+| 13:30          | Poster session          | 
+| 14:00          | Invited talks           | 
+| 14:30           | Contributed talks       |
+| 15:00          | Closing remarks         |
+| 15:30           | Opening remarks         |                                                                            
+| 16:00           | Invited talks           |
 | TBC           | Contributed talks       | 
 | TBC           | Poster session          | 
 | TBC           | Invited talks           | 
