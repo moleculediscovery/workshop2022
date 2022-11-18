@@ -41,11 +41,13 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 
 
 | CET             | Event              |        Speakers          |   Title     |                                                                 
-|                 | Welcome            |                          |             | 
-| 09:00           | Invited Talk 1     | Koji Tsuda               | Self-Learning Entropic Population Annealing for Interpretable Materials Design | 
-| 09:30           | invited Talk 2     | TaoQin                   |        | 
-| 10:00           | Contributed talks  |                          |        | 
-| 10:30           | Contributed talks  |                          |        | 
+| 09:00           | Opening remarks            |  Marwin Segler                       |             | 
+| 09:00           | Invited Talk      | Koji Tsuda               | Self-Learning Entropic Population Annealing for Interpretable Materials Design | 
+| 09:30           | Invited Talk      | Tao Qin                   | TBD       | 
+| 10:00           | Contributed talk |  Oliver Schilter                         |   Using deep generative models for generating catalyst candidates for Suzuki cross coupling reactions     | 
+| 10:15           | Contributed talk  | Morgan Thomas                         |   Re-evaluating sample efficiency in de novo molecule generation     | 
+| 10:30           | Contributed talk  |  Puck Van Gerwen                        |  Benchmarking families of descriptors for DFT-level predictions of chemical reaction properties      | 
+| 10:45           | Contributed talk  |   Austin Tripp                       |  Re-Evaluating Chemical Synthesis Planning Algorithms      | 
 | 11:00           | Poster Session 1   |                          |        | 
 | 11:30           | Poster Session 1   |                          |        |                                                                            
 | 12:00           | Invited talk 3     | Christian Kramer         |        | 
