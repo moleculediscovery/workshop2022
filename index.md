@@ -97,7 +97,7 @@ We are calling for papers advancing or critically assessing molecular machine le
 - Multi-modal learning and modular architectures
 - Causality and physics-based machine learning for molecules
 
-Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2022/Workshop/ML4Molecules) until Oct 18 2022 12:00AM AOE (abstract registration deadline) and Oct 20 2022 12:00AM AOE (paper deadline). The submissions should be in PDF and follow the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles) with a maximum of 4 pages (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous. 
+Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2022/Workshop/ML4Molecules) until Oct 18 2022 12:00AM AOE (abstract registration deadline) and Oct 20 2022 12:00AM AOE (paper deadline). The submissions should be in PDF and follow the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles) with a maximum of 4 pages (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous. For submitting the camera-ready paper please use [this](ml4molecules_2022.sty) updated style file.
 
 
 ### Organizing Committee and Contact
