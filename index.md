@@ -38,7 +38,7 @@ The workshop will be open for everyone without registration fee. Please register
 | 15:00           | Contributed talk  |   Ryan-Rhys Griffiths                       |  GAUCHE: A Library for Gaussian Processes in Chemistry      |                                                                            
 | 15:30           | Invited talk      |  Lucy Colwell            |   TBD     | 
 | 16:00           | Invited talk      | Payel Das                |   TBD     |  
-| 16:30           | Break              |                          |        |  
+| 16:30           | Panel discussion              |   Moderator: TBA                      |  Panelists: Derek Lowe, Ola Engkvist, Philippe Schwaller, ...      |  
 | 17:00           | Poster Session 2   |    (Poster discussion at Gathertown)                      |        |  
 | 18:00           | Closing remarks     |                          |        | 
 
@@ -54,7 +54,31 @@ The workshop will be open for everyone without registration fee. Please register
 |    ![Payel_Das_300x300](https://user-images.githubusercontent.com/38696018/194305006-5d57e472-9649-4816-bf88-b70db1655f80.jpg)| [Payel Das](https://researcher.watson.ibm.com/researcher/view.php?person=us-daspa), IBM NYC, US (confirmed)  She leads research projects related to AI for creativity and discovery, with inspirations from and applications in material science, chemistry, and biology.          |
 |      ![23964-76](https://user-images.githubusercontent.com/38696018/194305267-cc1f7c26-9e1b-45ec-902c-106808995139.jpg)| [Christian Kramer](https://scholar.google.at/citations?user=FO35_JEAAAAJ&hl=en&oi=ao), Roche, Switzerland  He is head of the computer-aided drug design group at Roche and will provide insights about the industry- and real-world impact of Deep Learning methods in this area      |
 
+### Accepted contributions (oral)
+Task-conditioned modeling of drug-target interactions; Emma Svensson, Pieter-Jan Hoedt, Sepp Hochreiter, Günter Klambauer  
+Benchmarking families of descriptors for DFT-level predictions of chemical reaction properties; Puck Van Gerwen, Malte Franke, Clemence Corminboeuf  
+Re-Evaluating Chemical Synthesis Planning Algorithms; Austin Tripp, Krzysztof Maziarz, Sarah Lewis, Guoqing Liu, Marwin Segler  
+Using deep generative models for generating catalyst candidates for Suzuki cross coupling reactions; Oliver Schilter, Alain C. Vaucher, Federico Zipoli, Philippe Schwaller, Teodoro Laino  
+Flow Annealed Importance Sampling Bootstrap; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, Bernhard Schölkopf, José Miguel Hernández-Lobato    
+MolE: a molecular foundation model for drug discovery; Oscar Mendez-Lucio, Christos A Nicolaou, Berton Earnshaw  
+GAUCHE: A Library for Gaussian Processes in Chemistry; Ryan-Rhys Griffiths, Leo Klarner, Henry Moss, Aditya Ravuri, Sang T. Truong, Bojana Ranković, Arian Rokkum Jamasb, Yuanqi Du, Julius Schwartz, Austin Tripp, Gregory Kell, Anthony Bourached, Alex Chan, Jacob Moss, Chengzhi Guo, Alpha Lee, Philippe Schwaller, Jian Tang  
+Re-evaluating sample efficiency in de novo molecule generation; Morgan Thomas, Noel O'Boyle, Andreas Bender, Chris de Graaf  
 
+### Accepted contributions (poster)
+A substructure-aware loss for feature attribution in drug discovery; Jose Jimenez-Luna, Kenza Amara, Raquel Rodriguez-Perez 
+Directional Variational Transformers for continuous molecular embedding; Tushar Gadhiya, Falak Shah, Nisarg Vyas, Vahe Gharakhanyan, Julia H. Yang, Alexander Holiday  
+Is Neural Chemical Reaction Prediction the Modern Alchemy?; Andrea Valenti, Davide Bacciu, Antonio Vergari  
+Data-driven Reaction Template Fingerprints; Anubhab Chakraborty, Amol Thakkar, Alain C. Vaucher, Teodoro Laino  
+Differential top-k learning for template-based single-step retrosynthesis; Andres M Bran, Philippe Schwaller  
+Context enrichment yields expressive molecular representations for few-shot drug discovery; Johannes Schimunek, Philipp Seidl, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer  
+Dynamic Molecular Graph-based Implementation for Biophysical Properties Prediction; Carter Knutson, Gihan Uthpala Panapitiya, Rohith Anand Varikoti, Neeraj Kumar  
+Are VAEs Bad at Reconstructing Molecular Graphs?; Hagen Münkler, Hubert Misztela, Michal Pikusa, Marwin Segler, Nadine Schneider, Krzysztof Maziarz  
+Bayesian optimisation for additive screening and yield improvements in chemical reactions - beyond one-hot encodings; Bojana Ranković, Ryan-Rhys Griffiths, Henry Moss, Philippe Schwaller  
+Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization; Wenhao Gao, Tianfan Fu, Jimeng Sun, Connor W. Coley  
+Digitization of Chemical Reactions Schemes; Mark Martori Lopez, Daniel Probst, Amol Thakkar, Teodoro Laino  
+Probing Graph Representations of Molecules; Mohammad Sadegh Akhondzadeh, Vijay Lingam, Aleksandar Bojchevski  
+Multi-Objective Drug Optimization by Markov Chain Monte Carlo; Agustin Kruel, Andrew D. McNaughton, Neeraj Kumar  
+Is GPT-3 all you need for machine learning for chemistry?; Kevin Maik Jablonka, Philippe Schwaller, Berend Smit  
 
 ### Important dates
  - October 18, 2022: submission deadline
