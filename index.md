@@ -105,7 +105,7 @@ Chairs: Jennifer Wei, Nadine Schneider, Günter Klambauer, Marwin Segler, and Jo
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
 
 ### Program Committee
-AkshatKumar Nigam, Alain C. Vaucher, Alexandros Kalousis, Andrea Volkamer, Andrea Volkamer, Andreas Mayr, Bharath Ramsundar, Bowen Jing, Brooks Paige, Cheng-Hao Liu, Daniel Stauso Wigh, Danilo Numeroso, Davide Bacciu, Fergus Imrie, Floriane Montanari, Gregor N. C. Simm, Hehuan Ma, Hiroshi Kajino, Hongyu Shen, Johannes Kirchmair, Kangway V Chuang, Ke Yu, Kobi Felton, Kristof T Schütt, Lagnajit Pattanaik, Lei Xie, Michele Ceriotti, Miguel Garcia Ortegon, Morgan Thomas, Nathan C. Frey, Ola Engkvist, Omar Rivasplata, Patricia Adriana Suriana, Rocío Mercado, Ryan-Rhys Griffiths, Simon Axelrod, Soha Hassoun, Soha Hassoun, Sowmya Ramaswamy Krishnan, Teodoro Laino
+Akshat Kumar Nigam, Alain C. Vaucher, Alexandros Kalousis, Andrea Volkamer,  Andreas Mayr, Bharath Ramsundar, Bowen Jing, Brooks Paige, Cheng-Hao Liu, Daniel Stauso Wigh, Danilo Numeroso, Davide Bacciu, Fergus Imrie, Floriane Montanari, Gregor N. C. Simm, Hehuan Ma, Hiroshi Kajino, Hongyu Shen, Johannes Kirchmair, Kangway V Chuang, Ke Yu, Kobi Felton, Kristof T Schütt, Lagnajit Pattanaik, Lei Xie, Michele Ceriotti, Miguel Garcia Ortegon, Morgan Thomas, Nathan C. Frey, Ola Engkvist, Omar Rivasplata, Patricia Adriana Suriana, Rocío Mercado, Ryan-Rhys Griffiths, Simon Axelrod, Soha Hassoun, Soha Hassoun, Sowmya Ramaswamy Krishnan, Teodoro Laino
 
 ### References
 Bender, A., & Cortés-Ciriano, I. (2021). Artificial intelligence in drug discovery: what is realistic, what are illusions? Part 1: ways to make an impact, and why we are not there yet. Drug discovery today, 26(2), 511-524.  
