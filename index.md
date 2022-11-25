@@ -33,9 +33,9 @@ The workshop will be open for everyone without registration fee. Please register
 | 13:30           | Invited talk      | Francesca Grisoni        |  Molecular machine learning through the lens of activity cliffs      |  
 | 14:00           | Invited talk      | Janet Thornton           |  Protein Structure and Function Predictions      | 
 | 14:30           | Contributed talk  |    Emma Svensson                      |   Task-conditioned modeling of drug-target interactions     | 
-| 14:30           | Contributed talk  |   Oscar Mendez-Lucio                       |   MolE: a molecular foundation model for drug discovery     | 
-| 14:30           | Contributed talk  |    Laurence Illing Midgley                      |  Flow Annealed Importance Sampling Bootstrap      | 
-| 15:00           | Contributed talk  |   Ryan-Rhys Griffiths                       |  GAUCHE: A Library for Gaussian Processes in Chemistry      |                                                                            
+| 14:45           | Contributed talk  |   Oscar Mendez-Lucio                       |   MolE: a molecular foundation model for drug discovery     | 
+| 15:00           | Contributed talk  |    Laurence Illing Midgley                      |  Flow Annealed Importance Sampling Bootstrap      | 
+| 15:15           | Contributed talk  |   Ryan-Rhys Griffiths                       |  GAUCHE: A Library for Gaussian Processes in Chemistry      |                                                                            
 | 15:30           | Invited talk      |  Lucy Colwell            |   Biological sequence design with therapeutic applications     | 
 | 16:00           | Invited talk      | Payel Das                |   TBD     |  
 | 16:30           | Panel discussion              |   Moderator: Jose M. H. Lobato                      |  Panelists: Derek Lowe, Ola Engkvist, Philippe Schwaller, Nadine Schneider      |  
