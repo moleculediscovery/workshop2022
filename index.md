@@ -55,30 +55,30 @@ The workshop will be open for everyone without registration fee. Please register
 |      ![23964-76](https://user-images.githubusercontent.com/38696018/194305267-cc1f7c26-9e1b-45ec-902c-106808995139.jpg)| [Christian Kramer](https://scholar.google.at/citations?user=FO35_JEAAAAJ&hl=en&oi=ao), Roche, Switzerland  He is head of the computer-aided drug design group at Roche and will provide insights about the industry- and real-world impact of Deep Learning methods in this area      |
 
 ### Accepted contributions (oral)
- - &#35;01 **Task-conditioned modeling of drug-target interactions**; Emma Svensson, Pieter-Jan Hoedt, Sepp Hochreiter, Günter Klambauer  
- - &#35;02 **Benchmarking families of descriptors for DFT-level predictions of chemical reaction properties**; Puck Van Gerwen, Malte Franke, Clemence Corminboeuf  
- - &#35;03 **Re-Evaluating Chemical Synthesis Planning Algorithms**; Austin Tripp, Krzysztof Maziarz, Sarah Lewis, Guoqing Liu, Marwin Segler  
- - &#35;04 **Using deep generative models for generating catalyst candidates for Suzuki cross coupling reactions**; Oliver Schilter, Alain C. Vaucher, Federico Zipoli, Philippe Schwaller, Teodoro Laino  
- - &#35;05 **Flow Annealed Importance Sampling Bootstrap**; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, Bernhard Schölkopf, José Miguel Hernández-Lobato    
- - &#35;06 **MolE: a molecular foundation model for drug discovery**; Oscar Mendez-Lucio, Christos A Nicolaou, Berton Earnshaw  
- - &#35;07 **GAUCHE: A Library for Gaussian Processes in Chemistry**; Ryan-Rhys Griffiths, Leo Klarner, Henry Moss, Aditya Ravuri, Sang T. Truong, Bojana Ranković, Arian Rokkum Jamasb, Yuanqi Du, Julius Schwartz, Austin Tripp, Gregory Kell, Anthony Bourached, Alex Chan, Jacob Moss, Chengzhi Guo, Alpha Lee, Philippe Schwaller, Jian Tang  
- - &#35;08 **Re-evaluating sample efficiency in de novo molecule generation**; Morgan Thomas, Noel O'Boyle, Andreas Bender, Chris de Graaf  
+ - &#35;01 **Task-conditioned modeling of drug-target interactions**; Emma Svensson, Pieter-Jan Hoedt, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=task_conditioned_modeling_of_d.pdf)
+ - &#35;02 **Benchmarking families of descriptors for DFT-level predictions of chemical reaction properties**; Puck Van Gerwen, Malte Franke, Clemence Corminboeuf [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=benchmarking_families_of_descr.pdf)
+ - &#35;03 **Re-Evaluating Chemical Synthesis Planning Algorithms**; Austin Tripp, Krzysztof Maziarz, Sarah Lewis, Guoqing Liu, Marwin Segler [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=re_evaluating_chemical_synthes.pdf)
+ - &#35;04 **Using deep generative models for generating catalyst candidates for Suzuki cross coupling reactions**; Oliver Schilter, Alain C. Vaucher, Federico Zipoli, Philippe Schwaller, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=using_deep_generative_models_f.pdf)
+ - &#35;05 **Flow Annealed Importance Sampling Bootstrap**; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, Bernhard Schölkopf, José Miguel Hernández-Lobato [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=flow_annealed_importance_sampl.pdf)
+ - &#35;06 **MolE: a molecular foundation model for drug discovery**; Oscar Mendez-Lucio, Christos A Nicolaou, Berton Earnshaw [\[PDF\]]()
+ - &#35;07 **GAUCHE: A Library for Gaussian Processes in Chemistry**; Ryan-Rhys Griffiths, Leo Klarner, Henry Moss, Aditya Ravuri, Sang T. Truong, Bojana Ranković, Arian Rokkum Jamasb, Yuanqi Du, Julius Schwartz, Austin Tripp, Gregory Kell, Anthony Bourached, Alex Chan, Jacob Moss, Chengzhi Guo, Alpha Lee, Philippe Schwaller, Jian Tang [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=gauche_a_library_for_gaussian_.pdf)
+ - &#35;08 **Re-evaluating sample efficiency in de novo molecule generation**; Morgan Thomas, Noel O'Boyle, Andreas Bender, Chris de Graaf [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=technologies-09-00002-v2.pdf)
 
 ### Accepted contributions (poster)
- - &#35;09 **A substructure-aware loss for feature attribution in drug discovery**; Jose Jimenez-Luna, Kenza Amara, Raquel Rodriguez-Perez 
- - &#35;10 **Directional Variational Transformers for continuous molecular embedding**; Tushar Gadhiya, Falak Shah, Nisarg Vyas, Vahe Gharakhanyan, Julia H. Yang, Alexander Holiday  
- - &#35;11 **Is Neural Chemical Reaction Prediction the Modern Alchemy?**; Andrea Valenti, Davide Bacciu, Antonio Vergari  
- - &#35;12 **Data-driven Reaction Template Fingerprints**; Anubhab Chakraborty, Amol Thakkar, Alain C. Vaucher, Teodoro Laino  
- - &#35;13 **Differential top-k learning for template-based single-step retrosynthesis**; Andres M Bran, Philippe Schwaller  
- - &#35;14 **Context enrichment yields expressive molecular representations for few-shot drug discovery**; Johannes Schimunek, Philipp Seidl, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer  
- - &#35;15 **Dynamic Molecular Graph-based Implementation for Biophysical Properties Prediction**; Carter Knutson, Gihan Uthpala Panapitiya, Rohith Anand Varikoti, Neeraj Kumar  
- - &#35;16 **Are VAEs Bad at Reconstructing Molecular Graphs?**; Hagen Münkler, Hubert Misztela, Michal Pikusa, Marwin Segler, Nadine Schneider, Krzysztof Maziarz  
- - &#35;17 **Bayesian optimisation for additive screening and yield improvements in chemical reactions - beyond one-hot encodings**; Bojana Ranković, Ryan-Rhys Griffiths, Henry Moss, Philippe Schwaller  
- - &#35;18 **Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization**; Wenhao Gao, Tianfan Fu, Jimeng Sun, Connor W. Coley  
- - &#35;19 **Digitization of Chemical Reactions Schemes**; Mark Martori Lopez, Daniel Probst, Amol Thakkar, Teodoro Laino  
- - &#35;20 **Probing Graph Representations of Molecules**; Mohammad Sadegh Akhondzadeh, Vijay Lingam, Aleksandar Bojchevski  
- - &#35;21 **Multi-Objective Drug Optimization by Markov Chain Monte Carlo**; Agustin Kruel, Andrew D. McNaughton, Neeraj Kumar  
- - &#35;22 **Is GPT-3 all you need for machine learning for chemistry?**; Kevin Maik Jablonka, Philippe Schwaller, Berend Smit  
+ - &#35;09 **A substructure-aware loss for feature attribution in drug discovery**; Jose Jimenez-Luna, Kenza Amara, Raquel Rodriguez-Perez [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=a_substructure_aware_loss_for_.pdf)
+ - &#35;10 **Directional Variational Transformers for continuous molecular embedding**; Tushar Gadhiya, Falak Shah, Nisarg Vyas, Vahe Gharakhanyan, Julia H. Yang, Alexander Holiday [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=directional_variational_transf.pdf)
+ - &#35;11 **Is Neural Chemical Reaction Prediction the Modern Alchemy?**; Andrea Valenti, Davide Bacciu, Antonio Vergari [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=is_neural_chemical_reaction_pr.pdf)
+ - &#35;12 **Data-driven Reaction Template Fingerprints**; Anubhab Chakraborty, Amol Thakkar, Alain C. Vaucher, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=data_driven_reaction_template_.pdf) 
+ - &#35;13 **Differential top-k learning for template-based single-step retrosynthesis**; Andres M Bran, Philippe Schwaller [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=differential_top_k_learning_fo.pdf)
+ - &#35;14 **Context enrichment yields expressive molecular representations for few-shot drug discovery**; Johannes Schimunek, Philipp Seidl, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=context_enrichment_yields_expr.pdf)
+ - &#35;15 **Dynamic Molecular Graph-based Implementation for Biophysical Properties Prediction**; Carter Knutson, Gihan Uthpala Panapitiya, Rohith Anand Varikoti, Neeraj Kumar [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=dynamic_molecular_graph_based_.pdf)
+ - &#35;16 **Are VAEs Bad at Reconstructing Molecular Graphs?**; Hagen Münkler, Hubert Misztela, Michal Pikusa, Marwin Segler, Nadine Schneider, Krzysztof Maziarz [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=are_vaes_bad_at_reconstructing.pdf)
+ - &#35;17 **Bayesian optimisation for additive screening and yield improvements in chemical reactions - beyond one-hot encodings**; Bojana Ranković, Ryan-Rhys Griffiths, Henry Moss, Philippe Schwaller [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=bayesian_optimisation_for_addi.pdf)
+ - &#35;18 **Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization**; Wenhao Gao, Tianfan Fu, Jimeng Sun, Connor W. Coley [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=sample_efficiency_matters_a_be.pdf)
+ - &#35;19 **Digitization of Chemical Reactions Schemes**; Mark Martori Lopez, Daniel Probst, Amol Thakkar, Teodoro Laino [\[PDF\]]()
+ - &#35;20 **Probing Graph Representations of Molecules**; Mohammad Sadegh Akhondzadeh, Vijay Lingam, Aleksandar Bojchevski [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=probing_graph_representations_.pdf)
+ - &#35;21 **Multi-Objective Drug Optimization by Markov Chain Monte Carlo**; Agustin Kruel, Andrew D. McNaughton, Neeraj Kumar [\[PDF\]]()
+ - &#35;22 **Is GPT-3 all you need for machine learning for chemistry?**; Kevin Maik Jablonka, Philippe Schwaller, Berend Smit [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=is_gpt_3_all_you_need_for_mach.pdf)
 
 ### Important dates
  - October 18, 2022: submission deadline
