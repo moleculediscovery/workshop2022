@@ -60,7 +60,7 @@ The workshop will be open for everyone without registration fee. Please register
  - &#35;03 **Re-Evaluating Chemical Synthesis Planning Algorithms**; Austin Tripp, Krzysztof Maziarz, Sarah Lewis, Guoqing Liu, Marwin Segler [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=re_evaluating_chemical_synthes.pdf)
  - &#35;04 **Using deep generative models for generating catalyst candidates for Suzuki cross coupling reactions**; Oliver Schilter, Alain C. Vaucher, Federico Zipoli, Philippe Schwaller, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=using_deep_generative_models_f.pdf)
  - &#35;05 **Flow Annealed Importance Sampling Bootstrap**; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, Bernhard Schölkopf, José Miguel Hernández-Lobato [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=flow_annealed_importance_sampl.pdf)
- - &#35;06 **MolE: a molecular foundation model for drug discovery**; Oscar Mendez-Lucio, Christos A Nicolaou, Berton Earnshaw [\[PDF\]]()
+ - &#35;06 **MolE: a molecular foundation model for drug discovery**; Oscar Mendez-Lucio, Christos A Nicolaou, Berton Earnshaw [\[PDF\]](https://cloud.ml.jku.at/s/rFZJwnJFb254Gxs/download?path=&files=mole_a_molecular_foundation_mo.pdf)
  - &#35;07 **GAUCHE: A Library for Gaussian Processes in Chemistry**; Ryan-Rhys Griffiths, Leo Klarner, Henry Moss, Aditya Ravuri, Sang T. Truong, Bojana Ranković, Arian Rokkum Jamasb, Yuanqi Du, Julius Schwartz, Austin Tripp, Gregory Kell, Anthony Bourached, Alex Chan, Jacob Moss, Chengzhi Guo, Alpha Lee, Philippe Schwaller, Jian Tang [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=gauche_a_library_for_gaussian_.pdf)
  - &#35;08 **Re-evaluating sample efficiency in de novo molecule generation**; Morgan Thomas, Noel O'Boyle, Andreas Bender, Chris de Graaf [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=technologies-09-00002-v2.pdf)
 
@@ -75,9 +75,9 @@ The workshop will be open for everyone without registration fee. Please register
  - &#35;16 **Are VAEs Bad at Reconstructing Molecular Graphs?**; Hagen Münkler, Hubert Misztela, Michal Pikusa, Marwin Segler, Nadine Schneider, Krzysztof Maziarz [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=are_vaes_bad_at_reconstructing.pdf)
  - &#35;17 **Bayesian optimisation for additive screening and yield improvements in chemical reactions - beyond one-hot encodings**; Bojana Ranković, Ryan-Rhys Griffiths, Henry Moss, Philippe Schwaller [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=bayesian_optimisation_for_addi.pdf)
  - &#35;18 **Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization**; Wenhao Gao, Tianfan Fu, Jimeng Sun, Connor W. Coley [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=sample_efficiency_matters_a_be.pdf)
- - &#35;19 **Digitization of Chemical Reactions Schemes**; Mark Martori Lopez, Daniel Probst, Amol Thakkar, Teodoro Laino [\[PDF\]]()
+ - &#35;19 **Digitization of Chemical Reactions Schemes**; Mark Martori Lopez, Daniel Probst, Amol Thakkar, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/rFZJwnJFb254Gxs/download?path=&files=digitization_of_chemical_react.pdf)
  - &#35;20 **Probing Graph Representations of Molecules**; Mohammad Sadegh Akhondzadeh, Vijay Lingam, Aleksandar Bojchevski [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=probing_graph_representations_.pdf)
- - &#35;21 **Multi-Objective Drug Optimization by Markov Chain Monte Carlo**; Agustin Kruel, Andrew D. McNaughton, Neeraj Kumar [\[PDF\]]()
+ - &#35;21 **Multi-Objective Drug Optimization by Markov Chain Monte Carlo**; Agustin Kruel, Andrew D. McNaughton, Neeraj Kumar [\[PDF\]](https://cloud.ml.jku.at/s/rFZJwnJFb254Gxs/download?path=&files=multi_objective_drug_optimizat.pdf)
  - &#35;22 **Is GPT-3 all you need for machine learning for chemistry?**; Kevin Maik Jablonka, Philippe Schwaller, Berend Smit [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=is_gpt_3_all_you_need_for_mach.pdf)
 
 ### Important dates
