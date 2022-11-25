@@ -55,6 +55,8 @@ The workshop will be open for everyone without registration fee. Please register
 |      ![23964-76](https://user-images.githubusercontent.com/38696018/194305267-cc1f7c26-9e1b-45ec-902c-106808995139.jpg)| [Christian Kramer](https://scholar.google.at/citations?user=FO35_JEAAAAJ&hl=en&oi=ao), Roche, Switzerland  He is head of the computer-aided drug design group at Roche and will provide insights about the industry- and real-world impact of Deep Learning methods in this area      |
 
 ### Accepted contributions (oral)
+
+
 | 1          | **Task-conditioned modeling of drug-target interactions**   |    Emma Svensson, Pieter-Jan Hoedt, Sepp Hochreiter, Günter Klambauer                     | [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=task_conditioned_modeling_of_d.pdf)       |  
 | 2          | **Benchmarking families of descriptors for DFT-level predictions of chemical reaction properties**    |   Puck Van Gerwen, Malte Franke, Clemence Corminboeuf                       |   [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=benchmarking_families_of_descr.pdf)     |  
 
