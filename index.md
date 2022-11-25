@@ -55,8 +55,10 @@ The workshop will be open for everyone without registration fee. Please register
 |      ![23964-76](https://user-images.githubusercontent.com/38696018/194305267-cc1f7c26-9e1b-45ec-902c-106808995139.jpg)| [Christian Kramer](https://scholar.google.at/citations?user=FO35_JEAAAAJ&hl=en&oi=ao), Roche, Switzerland  He is head of the computer-aided drug design group at Roche and will provide insights about the industry- and real-world impact of Deep Learning methods in this area      |
 
 ### Accepted contributions (oral)
- - &#35;01 **Task-conditioned modeling of drug-target interactions**; Emma Svensson, Pieter-Jan Hoedt, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=task_conditioned_modeling_of_d.pdf)
- - &#35;02 **Benchmarking families of descriptors for DFT-level predictions of chemical reaction properties**; Puck Van Gerwen, Malte Franke, Clemence Corminboeuf [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=benchmarking_families_of_descr.pdf)
+| 1          | **Task-conditioned modeling of drug-target interactions**   |    Emma Svensson, Pieter-Jan Hoedt, Sepp Hochreiter, Günter Klambauer                     | [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=task_conditioned_modeling_of_d.pdf)       |  
+| 2          | **Benchmarking families of descriptors for DFT-level predictions of chemical reaction properties**    |   Puck Van Gerwen, Malte Franke, Clemence Corminboeuf                       |   [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=benchmarking_families_of_descr.pdf)     |  
+
+
  - &#35;03 **Re-Evaluating Chemical Synthesis Planning Algorithms**; Austin Tripp, Krzysztof Maziarz, Sarah Lewis, Guoqing Liu, Marwin Segler [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=re_evaluating_chemical_synthes.pdf)
  - &#35;04 **Using deep generative models for generating catalyst candidates for Suzuki cross coupling reactions**; Oliver Schilter, Alain C. Vaucher, Federico Zipoli, Philippe Schwaller, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=using_deep_generative_models_f.pdf)
  - &#35;05 **Flow Annealed Importance Sampling Bootstrap**; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, Bernhard Schölkopf, José Miguel Hernández-Lobato [\[PDF\]](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=flow_annealed_importance_sampl.pdf)
