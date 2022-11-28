@@ -39,7 +39,7 @@ The workshop will be open for everyone without registration fee. Please register
 | 15:30           | Invited talk      |  Lucy Colwell            |   Biological sequence design with therapeutic applications     | 
 | 16:00           | ~~Invited talk~~      | ~~Payel Das~~                |   ~~Advancing Molecular Design: Promise Evaluation of Foundation Models and Generative AI~~ [Talk](https://www.youtube.com/watch?v=uY7xIa77N8k)    |  
 | 16:00           | Stand-in talk      | Jose M. H. Lobato                |   Meta-learning Adaptive Deep Kernel Gaussian Processes for Molecular Property Prediction    |  
-| 16:30           | Panel discussion              |   Moderator: Jose M. H. Lobato                      |  Panelists: Derek Lowe, Ola Engkvist, Philippe Schwaller, Nadine Schneider      |  
+| 16:30           | Panel discussion              |   Moderator: Marwin Segler                     |  Panelists: Derek Lowe, Ola Engkvist, Philippe Schwaller, Nadine Schneider,Jose M. H. Lobato       |  
 | 17:00           | Poster Session 2   |    Poster discussion at [Gathertown](https://app.gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop)                      |        |  
 | 18:00           | Closing remarks     |                          |        | 
 
