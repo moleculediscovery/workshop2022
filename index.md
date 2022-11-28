@@ -35,7 +35,7 @@ The workshop will be open for everyone without registration fee. Please register
 | 14:30           | Contributed talk  |    Emma Svensson                      |   Task-conditioned modeling of drug-target interactions     | 
 | 14:45           | Contributed talk  |   Oscar Mendez-Lucio                       |   MolE: a molecular foundation model for drug discovery     | 
 | 15:00           | Contributed talk  |    Laurence Illing Midgley                      |  Flow Annealed Importance Sampling Bootstrap      | 
-| 15:15           | Contributed talk  |   Ryan-Rhys Griffiths                       |  GAUCHE: A Library for Gaussian Processes in Chemistry      |                                                                            
+| 15:15           | Contributed talk  |   Leo Klarner                      |  GAUCHE: A Library for Gaussian Processes in Chemistry      |                                                                            
 | 15:30           | Invited talk      |  Lucy Colwell            |   Biological sequence design with therapeutic applications     | 
 | 16:00           | Invited talk      | Payel Das                |   Advancing Molecular Design: Promise Evaluation of Foundation Models and Generative AI     |  
 | 16:30           | Panel discussion              |   Moderator: Jose M. H. Lobato                      |  Panelists: Derek Lowe, Ola Engkvist, Philippe Schwaller, Nadine Schneider      |  
