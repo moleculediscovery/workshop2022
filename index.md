@@ -26,7 +26,7 @@ The workshop will be open for everyone without registration fee. Please register
 | 10:15           | Contributed talk  | Morgan Thomas                         |   Re-evaluating sample efficiency in de novo molecule generation     | 
 | 10:30           | Contributed talk  |  Puck Van Gerwen                        |  Benchmarking families of descriptors for DFT-level predictions of chemical reaction properties      | 
 | 10:45           | Contributed talk  |   Austin Tripp                       |  Re-Evaluating Chemical Synthesis Planning Algorithms      | 
-| 11:00           | Poster Session 1   |   (Poster discussion at Gathertown)                       |        | 
+| 11:00           | Poster Session 1   |   Poster discussion at [Gathertown](https://app.gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop)                       |        | 
 | 12:00           | Invited talk      | Christian Kramer         |   AI in Small Molecule Drug Design -- A User Perspective     | 
 | 12:30           | Invited talk      | Andreas Bender           |    Modelling Molecules? Great! What to Consider to Really Impact Drug Discovery    |  
 | 13:00           | Break              |                          |        |  
@@ -39,7 +39,7 @@ The workshop will be open for everyone without registration fee. Please register
 | 15:30           | Invited talk      |  Lucy Colwell            |   Biological sequence design with therapeutic applications     | 
 | 16:00           | Invited talk      | Payel Das                |   Advancing Molecular Design: Promise Evaluation of Foundation Models and Generative AI     |  
 | 16:30           | Panel discussion              |   Moderator: Jose M. H. Lobato                      |  Panelists: Derek Lowe, Ola Engkvist, Philippe Schwaller, Nadine Schneider      |  
-| 17:00           | Poster Session 2   |    (Poster discussion at Gathertown)                      |        |  
+| 17:00           | Poster Session 2   |    Poster discussion at [Gathertown](https://app.gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop)                      |        |  
 | 18:00           | Closing remarks     |                          |        | 
 
 
